@@ -1,0 +1,152 @@
+📌 Week 1 – Task Breakdown
+1. Dataset Understanding
+
+Review the three provided datasets:
+
+
+Applicant Data
+
+
+Outreach Data
+
+
+Campaign Data
+
+
+
+Study their schema, field names, data types, and relationships.
+
+
+Example:
+
+
+Applicant ID links with Outreach Data.
+
+
+Campaign ID links with Campaign Data.
+
+
+
+
+2. Exploratory Data Analysis (EDA)
+Perform an initial analysis of the datasets to identify:
+
+
+Trends & Patterns → seasonal changes, spikes, correlations.
+
+
+Anomalies → outliers, incorrect values.
+
+
+Missing Values → missing dates, IDs, statuses.
+
+
+Categorical Issues → spelling mistakes, inconsistent categories.
+
+
+👉 Create visualizations (histograms, bar charts, scatter plots, heatmaps) and include screenshots in the report.
+
+
+3. Data Cleaning
+
+Handle missing values (impute, remove, or flag).
+
+
+Remove duplicates (e.g., same Applicant ID appearing multiple times).
+
+
+Correct inaccuracies (typos, invalid phone numbers, wrong date ranges).
+
+
+Apply standardization (date formats, text casing, numeric precision).
+
+
+Perform validation checks to ensure data is consistent after cleaning.
+
+
+
+4. PostgreSQL Setup
+
+Install and configure PostgreSQL.
+
+
+Create a new database.
+
+
+Import cleaned datasets into PostgreSQL.
+
+
+Run basic SQL queries (e.g., SELECT, COUNT) and capture proof (screenshots/output).
+
+
+
+5. Master Table Creation
+
+Integrate Applicant Data, Outreach Data, and Campaign Data using defined relationships.
+
+
+Build a Master Table as the single source of truth for future visualizations.
+
+
+Validate relationships (Primary Key, Foreign Key constraints).
+
+
+
+📑 Deliverables (Submission Requirements)
+Submit a single combined PDF containing:
+
+
+EDA Report
+
+
+Dataset understanding
+
+
+Cleaning steps
+
+
+Visualizations with screenshots
+
+
+
+Data Cleaning Summary
+
+
+Issues found + Solutions applied
+
+
+
+PostgreSQL Proof
+
+
+Screenshots of queries/outputs
+
+
+Master Table creation + validation
+
+
+
+
+🎯 Learning Outcomes
+By the end of Week 1, you will:
+
+
+Learn how to explore and interpret datasets.
+
+
+Understand data cleaning techniques and maintain accuracy.
+
+
+Practice PostgreSQL data import and SQL queries.
+
+
+Gain experience in Master Table design (ETL basics).
+
+
+Understand the importance of data integrity and consistency.
+
+
+
+⚡ In simple words:
+
+Understand datasets → Perform EDA → Clean data → Load into PostgreSQL → Build Master Table → Submit Report (PDF).
