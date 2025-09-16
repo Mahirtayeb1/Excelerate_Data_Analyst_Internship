@@ -1,0 +1,24 @@
+ID,Name,Category,Intake,University,Status,Start_Date,Season,Campaign_Type,Region,Campaign_Type_2,Deposit,Deferal_to_SP25
+AANF23,"GR GS FA24 Campaign- Admit, No Deposit",Post Admission,AY2024,Illinois Institute of Technology,"Admit, No Deposit",3/20/2024,FA24,Campaign,,GR GS FA24 Campaign,0,FALSE
+AND23,GR GS FA24 Campaign- Deposit No Action,Post Admission,AY2024,Illinois Institute of Technology,Deposit No Action,9/11/2024,FA24,Campaign,,GR GS FA24 Campaign,1,FALSE
+BPNANF23,"GR GS FA24 Campaign- Deposit, No I-20",Post Admission,AY2024,Illinois Institute of Technology,"Deposit, No I-20",7/11/2024,FA24,Campaign,,GR GS FA24 Campaign,1,FALSE
+BPNND23,GR GS FA24 Campaign- In Progress,Pre Admission,AY2024,Illinois Institute of Technology,In Progress,3/6/2024,FA24,Campaign,,GR GS FA24 Campaign,,FALSE
+CTKANF23,"GR GS FA24 Campaign- Submit, Incomplete",Pre Admission,AY2024,Illinois Institute of Technology,"Submit, Incomplete",3/8/2024,FA24,Campaign,,GR GS FA24 Campaign,,FALSE
+DANE24,GR GS Call Campaign: India ANF,Pre Admission,AY2024,Illinois Institute of Technology,ANF,4/28/2023,,Call Campaign,India,GR GS Call Campaign,,FALSE
+DNA24,GR GS Call Campaign: India No Deposit,Post Admission,AY2024,Illinois Institute of Technology,No Deposit,7/3/2023,,Call Campaign,India,GR GS Call Campaign,0,FALSE
+FA24AND,GR GS Call Campaign: Other ANF,Post Admission,AY2024,Illinois Institute of Technology,ANF,5/16/2023,,Call Campaign,Other,GR GS Call Campaign,,FALSE
+FA24DNA,GR GS Call Campaign: Other No Deposit,Post Admission,AY2024,Illinois Institute of Technology,No Deposit,7/5/2023,,Call Campaign,Other,GR GS Call Campaign,0,FALSE
+FA24DNI,GR GS SP25 Campaign- All I-20s Sent,Post Admission,AY2024,Illinois Institute of Technology,All I-20s Sent,12/5/2024,SP25,Campaign,,GR GS SP25 Campaign,,FALSE
+FA24IP,"GR GS SP25 Campaign- Admit, No Deposit",Post Admission,AY2024,Illinois Institute of Technology,"Admit, No Deposit",10/9/2024,SP25,Campaign,,GR GS SP25 Campaign,0,FALSE
+FA24SIC,"GR GS SP25 Campaign- Deposit, No I-20",Post Admission,AY2024,Illinois Institute of Technology,"Deposit, No I-20",10/22/2024,SP25,Campaign,,GR GS SP25 Campaign,1,FALSE
+IANF23,GR GS SP25 Campaign- Deferrals to SP25,Post Admission,AY2024,Illinois Institute of Technology,Deferrals to SP25,11/5/2024,SP25,Campaign,,GR GS SP25 Campaign,,TRUE
+IND23,GR GS SP25 Campaign- In Progress,Pre Admission,AY2024,Illinois Institute of Technology,In Progress,10/7/2024,SP25,Campaign,,GR GS SP25 Campaign,,FALSE
+OANF23,GR GS SP25 Campaign- New Inquiry,Pre Admission,AY2024,Illinois Institute of Technology,New Inquiry,10/18/2024,SP25,Campaign,,GR GS SP25 Campaign,,FALSE
+OND23,"GR GS SP25 Campaign- Submitted, Incomplete",Pre Admission,AY2024,Illinois Institute of Technology,"Submitted, Incomplete",10/9/2024,SP25,Campaign,,GR GS SP25 Campaign,,FALSE
+SP25AI2S,GR GS Call Campaign: Africa ANF,Pre Admission,AY2024,Illinois Institute of Technology,ANF,5/18/2023,,Call Campaign,Africa,GR GS Call Campaign,,FALSE
+SP25AND,GR GS Call Campaign: Africa No Deposit,Post Admission,AY2024,Illinois Institute of Technology,No Deposit,7/5/2023,,Call Campaign,Africa,GR GS Call Campaign,0,FALSE
+SP25DN1,"GR GS Call Campaign: Bangladesh, Pakistan, Nepal ANF",Pre Admission,AY2024,Illinois Institute of Technology,ANF,5/16/2023,,Call Campaign,"Bangladesh, Pakistan, Nepal",GR GS Call Campaign,,FALSE
+SP25DSP,"GR GS Call Campaign: Bangladesh, Pakistan, Nepal No Deposit",Post Admission,AY2024,Illinois Institute of Technology,No Deposit,7/5/2023,,Call Campaign,"Bangladesh, Pakistan, Nepal",GR GS Call Campaign,0,FALSE
+SP25IP,"GR GS Call Campaign: China, Taiwan, Korea ANF",Pre Admission,AY2024,Illinois Institute of Technology,ANF,5/16/2023,,Call Campaign,"China, Taiwan, Korea",GR GS Call Campaign,,FALSE
+SP25NIQ,"Deposit and Advised, Not Enrolled",Post Admission,AY2024,Illinois Institute of Technology,"Deposit and Advised, Not Enrolled",7/17/2024,,Campaign,,,1,FALSE
+SP25SIC,"Deposit, Not Advised",Post Admission,AY2024,Illinois Institute of Technology,"Deposit, Not Advised",7/17/2024,,Campaign,,,1,FALSE
