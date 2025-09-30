@@ -8,6 +8,7 @@ git remote add origin https://github.com/Mahirtayeb1/Excelerate_Data_Analyst_Int
 git push -u origin main
 
 push an existing repository from the command line
-git remote add origin https://github.com/Mahirtayeb1/Excelerate_Data_Analyst_Internship.git
+git add .
+git commit -m "something"
 git branch -M main
 git push -u origin main
